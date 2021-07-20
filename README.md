@@ -30,6 +30,7 @@
      <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://material-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
+    <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-web-token.png"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
     <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
