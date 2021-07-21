@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://maidul-port.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
 - 📫 How to reach me **maidulbappy.web@gmail.com**
 
