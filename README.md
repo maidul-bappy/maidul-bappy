@@ -44,9 +44,9 @@
 
 ## Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/maidulbappy/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://facebook.com/maidul.bappy"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/MaidulBappy/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/maidul_bappy/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
