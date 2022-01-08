@@ -49,7 +49,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/maidul-bappy/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=maidul-bappy">
 </a>
 <a href="https://github.com/maidul-bappy?tab=followers"><img src="https://img.shields.io/github/followers/maidul-bappy?label=Followers&style=social" alt="GitHub Badge"></a>
